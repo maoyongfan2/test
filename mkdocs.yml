@@ -1,5 +1,0 @@
-site_name: My Docs
-theme:  cyborg
-pages:
-- [index.md, Home]
-- [about.md, About]
